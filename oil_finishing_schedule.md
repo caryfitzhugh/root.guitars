@@ -1,5 +1,7 @@
-= Schedule
-== Prep
+# Schedule
+
+##Prep
+
 * [ ] Sand body shape with 80
 * [ ] Sand body shape with 100
 * [ ] Sand body shape with 120
@@ -7,7 +9,9 @@
 * [ ] Sand body shape with 180
 * [ ] Sand body shape with 220
 * [ ] Wipe down with acetone
-== Finish
+
+##Finish
+
 * [ ] Flood coat with antique oil finish until surface stays wet. Wait 5 mins. Wipe off
 * [ ] Wait 24 hours
 * [ ] Flood coat with antique oil finish until surface stays wet. Wait 5 mins. Wipe off
@@ -48,4 +52,4 @@
 * 8 days of finishing
 * 5 days of waiting
 
-### About $15, 6 hours of work, 2 weeks of time 
+## About $15, 6 hours of work, 2 weeks of time 

@@ -1,6 +1,7 @@
 
 Necks are built with hickory wood fretboards (dyed dark brown/black).
-Maple / laminated neck
+Maple / cherry / beech / etc laminated necks (whatever is local).
+That's the ticket! LOCAL!
 
 You can do epoxy inlays (dots with epoxy inside)
 side dots

@@ -27,10 +27,13 @@
 * [ ] Wait 12 hours
 * [ ] Apply oil and wet sand with 2000.  Wait 5 mins. Wipe off
 * [ ] Wait 12 hours
-* * [ ] Apply oil and wet sand with 2000.  Wait 5 mins. Wipe off
-* [ ] Wait 12 hours
+* [ ] Apply oil and wet sand with 2000.  Wait 5 mins. Wipe off
+* [ ] Wait 6 hours
 * [ ] Apply oil, wait a minute.  Wipe off
-* [ ] Wait 5 days
+* [ ] Wait 6 hours
+* [ ] Apply oil, wait a minute.  Wipe off
+* [ ] Apply oil, wait a minute.  Wipe off
+* [ ] Wait 3 days
 * [ ] Apply paste wax. Wait per instructions. Buff off!
 
 # Materials
@@ -45,7 +48,7 @@
 * Flood Coats  2+ hr
 * Wet Sand Coats 8 * 15mins  = 2 hr
 * Final coat   10min
-* Wax          30min
+* Wax          10min
 
 # Waiting
 * 8 days of finishing
